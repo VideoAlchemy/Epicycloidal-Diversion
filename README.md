@@ -1,4 +1,4 @@
-##Omnicycloidal-Diversion
+##The Omnicycloidal Diversion
 > gesture controlled spirograph
 ___________________
 
