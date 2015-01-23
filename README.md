@@ -17,6 +17,8 @@ This project was inspired by, and is a tribute to, the Ferris Wheel's predecesso
 - [How to Draw a Double Spiral Celtic Knot]
 - [How to Draw a Fibonacci Spiral]
 - [Eccentric-Cycloidal Gearing]
+- [Roots Pump Lobe Profiles] - 
+- [Roots Pump Two Lobe]
 
 
 
@@ -39,3 +41,5 @@ _________________________
 [How to Draw a Double Spiral Celtic Knot]:https://www.youtube.com/watch?v=9A-q4FJZ67c
 [Eccentric-Cycloidal Gearing]:https://www.youtube.com/watch?v=AMtyFwMDL7w
 [How to Draw a Fibonacci Spiral]:https://www.youtube.com/watch?v=nN9gcaQPTVk
+[Roots Pump Lobe Profiles]:https://www.youtube.com/watch?v=xZ0OZChb-MI
+[Roots Pump Two Lobe]:https://www.youtube.com/watch?v=_-fwWrFLiyY
