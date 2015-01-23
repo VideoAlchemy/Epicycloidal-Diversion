@@ -10,7 +10,7 @@ This project was inspired by, and is a tribute to, the Ferris Wheel's predecesso
 
 ##Resources
 #####VideoExamples
-- [Engineering Drawing Epicycloid]:https://www.youtube.com/watch?v=4EzEXiq4Y8w
+- [Engineering Drawing Epicycloid]
 
 
 
