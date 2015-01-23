@@ -36,6 +36,6 @@ _________________________
 [How to Draw a Cycloid]:https://www.youtube.com/watch?v=WNFLbuM2iDU
 [How to Draw a HypoCycloid]:https://www.youtube.com/watch?v=GfoCtVvL8aM
 [How to Draw an Archimedean Spiral]:https://www.youtube.com/watch?v=2klWp9Frr_Y
-[How to Draw a Double Spiral Celtic Spiral]:https://www.youtube.com/watch?v=9A-q4FJZ67c
+[How to Draw a Double Spiral Celtic Knot]:https://www.youtube.com/watch?v=9A-q4FJZ67c
 [Eccentric-Cycloidal Gearing]:https://www.youtube.com/watch?v=AMtyFwMDL7w
 [How to Draw a Fibonacci Spiral]:https://www.youtube.com/watch?v=nN9gcaQPTVk
