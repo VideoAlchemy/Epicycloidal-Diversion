@@ -16,10 +16,16 @@ ________________________________
 #####0.1.0 - setup
 - [x] git repo
 - [x] readme
+- [x] release tags in git
+
+#####0.2.0 - requirements phase
 - [ ] requirements
 - [ ] overview metaphor
-- [ ] release tags in git
 - [ ] general research
+- [ ] list features
+
+#####0.3.0
+- [ ] mockups
 
 #####1.0.0 - minimal live system
 
