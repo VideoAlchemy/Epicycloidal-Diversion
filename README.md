@@ -2,14 +2,34 @@
 > gesture controlled spirograph
 ___________________
 
-##History
+###History
 This project was inspired by, and is a tribute to, the Ferris Wheel's predecessor - an amusement park ride built on the Jersey Shore in the 1870s called The Epicycloidal Diversion.
 
+________________________________
+###Overview
+
+________________________________
+###Requirements
+
+________________________________
+###Features by Release
+#####0.1.0 - setup
+- [x] git repo
+- [x] readme
+- [ ] requirements
+- [ ] overview metaphor
+- [ ] release tags in git
+- [ ] general research
+
+#####1.0.0 - minimal live system
 
 
+#####Future Releases
 
-##Resources
-#####VideoExamples
+
+________________________________
+###Resources
+####VideoExamples
 - [How to Draw a Cycloid]
 - [How to Draw an Epicycloid]
 - [How to Draw a HypoCycloid]
@@ -20,14 +40,27 @@ This project was inspired by, and is a tribute to, the Ferris Wheel's predecesso
 - [Roots Pump Lobe Profiles] - 
 - [Roots Pump Two Lobe]
 
-
-
-##Terms
+####Terms
 - generating/rolling circle
 - directing circle
 - epicycloidal
 - hypocycloidal
 - cycloid
+
+####Notes
+#####2015-01-19: from zoran
+- Opportunity to build interactive installation at Chabot Space and Science Center in March is exciting. March leaves you about a month and a half to get things ready.  
+- STEPS:
+     - Most important document is a **short list of the business requirements.** 
+     - Next is choosing an **appropriate metaphor** that captures the essence of what it is you are doing. 
+     - Then **build a minimal live system** with important components in place. Do you have a prototype you can reuse?
+     - Once you have the live system, the cycle is: 
+          1. write a test, 
+          2. modify code to pass new test, 
+          3. then run regression tests, 
+          4. and finally accept modified code. 
+- If you are careful to add important features which require special processing first, you will run into bugs early in the process.
+- As for finding help, remember mythical man-month. You will take a performance hit as you bring someone else on board, which will be difficult to overcome on a short schedule.
 
 
 
