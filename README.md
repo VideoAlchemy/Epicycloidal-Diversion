@@ -69,13 +69,13 @@ ________________________________
 - As for finding help, remember mythical man-month. You will take a performance hit as you bring someone else on board, which will be difficult to overcome on a short schedule.
 
 #####Git Tags
-- create tag
-```git tag v1.0.0```  
-- list tags
-```git tag```
-- delete tag
-```git tag -d v1.0.0```
-
+- create tag  
+```git tag v1.0.0```    
+- list tags  
+```git tag```  
+- delete tag  
+```git tag -d v1.0.0```  
+- source: [Git Tip of the Week: Tags](http://alblue.bandlem.com/2011/04/git-tip-of-week-tags.html)
 
 _________________________
 
