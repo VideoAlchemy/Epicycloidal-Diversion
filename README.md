@@ -9,7 +9,12 @@ ________________________________
 ###Overview
 
 ________________________________
-###Requirements
+###Requirements for 1.0.0 - Chabot
+####Setup Requirements
+- Structure must be free standing
+- screen size?----------------
+- rear-projection throw distance?-------
+
 
 ________________________________
 ###Features by Release
@@ -17,6 +22,13 @@ ________________________________
 - [x] git repo
 - [x] readme
 - [x] release tags in git
+
+#####0.1.1 - setup specs 
+- [ ] determine setup specs
+     - [ ] screen size
+     - [ ] footprint 
+     - [ ] throw distance
+- [ ] get setup specs to Peter Tjeerdsma peter@petert.net
 
 #####0.2.0 - requirements phase
 - [ ] requirements
@@ -27,7 +39,7 @@ ________________________________
 #####0.3.0
 - [ ] mockups
 
-#####1.0.0 - minimal live system
+#####1.0.0 - minimal live system for Chabot
 
 
 #####Future Releases
@@ -76,6 +88,8 @@ ________________________________
 - delete tag  
 ```git tag -d v1.0.0```  
 - source: [Git Tip of the Week: Tags](http://alblue.bandlem.com/2011/04/git-tip-of-week-tags.html)
+
+
 
 _________________________
 
