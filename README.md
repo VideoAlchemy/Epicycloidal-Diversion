@@ -28,7 +28,6 @@ ________________________________
      - [ ] screen size
      - [ ] footprint 
      - [ ] throw distance
-- [ ] get setup specs to Peter Tjeerdsma peter@petert.net
 
 #####0.2.0 - requirements phase
 - [ ] requirements
